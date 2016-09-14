@@ -1,0 +1,7 @@
+D:\materialy\Incread\studia\c#\cwiczenia\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+D:\materialy\Incread\studia\c#\cwiczenia\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+D:\materialy\Incread\studia\c#\cwiczenia\kalkulator\kalkulator\obj\x86\Debug\kalkulator.Kalkulator.resources
+D:\materialy\Incread\studia\c#\cwiczenia\kalkulator\kalkulator\obj\x86\Debug\kalkulator.Properties.Resources.resources
+D:\materialy\Incread\studia\c#\cwiczenia\kalkulator\kalkulator\obj\x86\Debug\kalkulator.csproj.GenerateResource.Cache
+D:\materialy\Incread\studia\c#\cwiczenia\kalkulator\kalkulator\obj\x86\Debug\kalkulator.exe
+D:\materialy\Incread\studia\c#\cwiczenia\kalkulator\kalkulator\obj\x86\Debug\kalkulator.pdb
